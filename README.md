@@ -9,3 +9,5 @@ a calculator that only gives you the wrong answer (dont rely on this as an actua
 a word scrambler that only scrambles one letter in the word
 ## passwordgenerator.py
 a password generator that creates needlessly complicated passwords
+## stupid.py
+creates a window that closes itself when you click on it
